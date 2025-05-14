@@ -10,11 +10,21 @@
         "runtime": {
           "Access Modifiers ReadOnly.dll": {}
         }
+      },
+      "Access Modifiers ReadOnly.Service/1.0.0": {
+        "runtime": {
+          "Access Modifiers ReadOnly.Service.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "Access Modifiers ReadOnly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Access Modifiers ReadOnly.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

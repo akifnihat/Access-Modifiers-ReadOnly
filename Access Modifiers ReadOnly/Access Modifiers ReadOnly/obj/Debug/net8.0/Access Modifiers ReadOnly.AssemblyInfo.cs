@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Access Modifiers ReadOnly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e73c7875e16e1188563f12f8ce65047aea7415e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Access Modifiers ReadOnly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Access Modifiers ReadOnly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

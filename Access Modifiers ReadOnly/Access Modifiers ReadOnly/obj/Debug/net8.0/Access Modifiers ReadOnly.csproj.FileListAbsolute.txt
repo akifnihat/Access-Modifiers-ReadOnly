@@ -12,3 +12,22 @@ C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Acce
 C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.pdb
 C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.genruntimeconfig.cache
 C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\ref\Access Modifiers ReadOnly.dll
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.exe
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.deps.json
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.runtimeconfig.json
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.dll
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.pdb
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.Service.dll
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.Service.pdb
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.AssemblyInfo.cs
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.sourcelink.json
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.csproj.CopyComplete
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.dll
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\refint\Access Modifiers ReadOnly.dll
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.pdb
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.genruntimeconfig.cache
+C:\Users\HP\Desktop\added task3\Access-Modifiers-ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\ref\Access Modifiers ReadOnly.dll

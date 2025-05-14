@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Access Modifiers ReadOnly.Service\Access Modifiers ReadOnly.Service.csproj" />
+  </ItemGroup>
+
 </Project>

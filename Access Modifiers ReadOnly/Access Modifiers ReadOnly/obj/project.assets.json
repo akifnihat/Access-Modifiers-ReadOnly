@@ -1,31 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Access Modifiers ReadOnly.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Access Modifiers ReadOnly.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Access Modifiers ReadOnly.Service.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Access Modifiers ReadOnly.Service/1.0.0": {
+      "type": "project",
+      "path": "../Access Modifiers ReadOnly.Service/Access Modifiers ReadOnly.Service.csproj",
+      "msbuildProject": "../Access Modifiers ReadOnly.Service/Access Modifiers ReadOnly.Service.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Access Modifiers ReadOnly.Service >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\akifst\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akifst\\Desktop\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\added task3\\Access-Modifiers-ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly.csproj",
       "projectName": "Access Modifiers ReadOnly",
-      "projectPath": "C:\\Users\\akifst\\Desktop\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly.csproj",
-      "packagesPath": "C:\\Users\\akifst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akifst\\Desktop\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\added task3\\Access-Modifiers-ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\added task3\\Access-Modifiers-ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\akifst\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,26 +47,23 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\HP\\Desktop\\added task3\\Access-Modifiers-ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly.Service\\Access Modifiers ReadOnly.Service.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\added task3\\Access-Modifiers-ReadOnly\\Access Modifiers ReadOnly\\Access Modifiers ReadOnly.Service\\Access Modifiers ReadOnly.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -73,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
