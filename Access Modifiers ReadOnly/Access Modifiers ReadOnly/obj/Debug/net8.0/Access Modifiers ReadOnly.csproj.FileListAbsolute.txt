@@ -1,0 +1,14 @@
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.exe
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.deps.json
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.runtimeconfig.json
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.dll
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\bin\Debug\net8.0\Access Modifiers ReadOnly.pdb
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.AssemblyInfoInputs.cache
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.AssemblyInfo.cs
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.csproj.CoreCompileInputs.cache
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.dll
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\refint\Access Modifiers ReadOnly.dll
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.pdb
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\Access Modifiers ReadOnly.genruntimeconfig.cache
+C:\Users\akifst\Desktop\Access Modifiers ReadOnly\Access Modifiers ReadOnly\Access Modifiers ReadOnly\obj\Debug\net8.0\ref\Access Modifiers ReadOnly.dll
